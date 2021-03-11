@@ -1,0 +1,13 @@
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\bin\Debug\netcoreapp3.1\AchievementFunctions.exe
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\bin\Debug\netcoreapp3.1\AchievementFunctions.deps.json
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\bin\Debug\netcoreapp3.1\AchievementFunctions.runtimeconfig.json
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\bin\Debug\netcoreapp3.1\AchievementFunctions.runtimeconfig.dev.json
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\bin\Debug\netcoreapp3.1\AchievementFunctions.dll
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\bin\Debug\netcoreapp3.1\AchievementFunctions.pdb
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\obj\Debug\netcoreapp3.1\AchievementFunctions.csprojAssemblyReference.cache
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\obj\Debug\netcoreapp3.1\AchievementFunctions.AssemblyInfoInputs.cache
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\obj\Debug\netcoreapp3.1\AchievementFunctions.AssemblyInfo.cs
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\obj\Debug\netcoreapp3.1\AchievementFunctions.csproj.CoreCompileInputs.cache
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\obj\Debug\netcoreapp3.1\AchievementFunctions.dll
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\obj\Debug\netcoreapp3.1\AchievementFunctions.pdb
+C:\Users\senno\CS-Achievements\Les-01\Functies\AchievementFunctions\AchievementFunctions\obj\Debug\netcoreapp3.1\AchievementFunctions.genruntimeconfig.cache

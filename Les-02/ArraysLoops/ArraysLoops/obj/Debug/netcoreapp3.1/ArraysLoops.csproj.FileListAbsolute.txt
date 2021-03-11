@@ -1,0 +1,13 @@
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\obj\Debug\netcoreapp3.1\ArraysLoops.csprojAssemblyReference.cache
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\obj\Debug\netcoreapp3.1\ArraysLoops.AssemblyInfoInputs.cache
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\obj\Debug\netcoreapp3.1\ArraysLoops.AssemblyInfo.cs
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\obj\Debug\netcoreapp3.1\ArraysLoops.csproj.CoreCompileInputs.cache
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\bin\Debug\netcoreapp3.1\ArraysLoops.exe
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\bin\Debug\netcoreapp3.1\ArraysLoops.deps.json
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\bin\Debug\netcoreapp3.1\ArraysLoops.runtimeconfig.json
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\bin\Debug\netcoreapp3.1\ArraysLoops.runtimeconfig.dev.json
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\bin\Debug\netcoreapp3.1\ArraysLoops.dll
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\bin\Debug\netcoreapp3.1\ArraysLoops.pdb
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\obj\Debug\netcoreapp3.1\ArraysLoops.dll
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\obj\Debug\netcoreapp3.1\ArraysLoops.pdb
+C:\Users\senno\source\repos\ArraysLoops\ArraysLoops\obj\Debug\netcoreapp3.1\ArraysLoops.genruntimeconfig.cache
