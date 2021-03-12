@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\senno\\source\\repos\\ArraysLoops\\ArraysLoops\\ArraysLoops.csproj",
+      "projectUniqueName": "C:\\Users\\senno\\CS-Achievements\\Les-02\\ArraysLoops\\ArraysLoops\\ArraysLoops.csproj",
       "projectName": "ArraysLoops",
-      "projectPath": "C:\\Users\\senno\\source\\repos\\ArraysLoops\\ArraysLoops\\ArraysLoops.csproj",
+      "projectPath": "C:\\Users\\senno\\CS-Achievements\\Les-02\\ArraysLoops\\ArraysLoops\\ArraysLoops.csproj",
       "packagesPath": "C:\\Users\\senno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\senno\\source\\repos\\ArraysLoops\\ArraysLoops\\obj\\",
+      "outputPath": "C:\\Users\\senno\\CS-Achievements\\Les-02\\ArraysLoops\\ArraysLoops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\senno\\AppData\\Roaming\\NuGet\\NuGet.Config",

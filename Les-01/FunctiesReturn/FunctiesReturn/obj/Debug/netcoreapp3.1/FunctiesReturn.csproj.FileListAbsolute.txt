@@ -1,0 +1,13 @@
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\bin\Debug\netcoreapp3.1\FunctiesReturn.exe
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\bin\Debug\netcoreapp3.1\FunctiesReturn.deps.json
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\bin\Debug\netcoreapp3.1\FunctiesReturn.runtimeconfig.json
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\bin\Debug\netcoreapp3.1\FunctiesReturn.runtimeconfig.dev.json
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\bin\Debug\netcoreapp3.1\FunctiesReturn.dll
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\bin\Debug\netcoreapp3.1\FunctiesReturn.pdb
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\obj\Debug\netcoreapp3.1\FunctiesReturn.csprojAssemblyReference.cache
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\obj\Debug\netcoreapp3.1\FunctiesReturn.AssemblyInfoInputs.cache
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\obj\Debug\netcoreapp3.1\FunctiesReturn.AssemblyInfo.cs
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\obj\Debug\netcoreapp3.1\FunctiesReturn.csproj.CoreCompileInputs.cache
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\obj\Debug\netcoreapp3.1\FunctiesReturn.dll
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\obj\Debug\netcoreapp3.1\FunctiesReturn.pdb
+C:\Users\senno\CS-Achievements\Les-01\FunctiesReturn\FunctiesReturn\obj\Debug\netcoreapp3.1\FunctiesReturn.genruntimeconfig.cache

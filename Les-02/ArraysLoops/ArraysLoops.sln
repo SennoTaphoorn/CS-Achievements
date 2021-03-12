@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysLoops", "ArraysLoops\ArraysLoops.csproj", "{E5C08F34-4471-4EF5-B4C6-D907C36A4591}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysLoops", "ArraysLoops\ArraysLoops.csproj", "{1434BD3C-1960-4820-BA7A-2B29B4B6DDDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E5C08F34-4471-4EF5-B4C6-D907C36A4591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E5C08F34-4471-4EF5-B4C6-D907C36A4591}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E5C08F34-4471-4EF5-B4C6-D907C36A4591}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E5C08F34-4471-4EF5-B4C6-D907C36A4591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1434BD3C-1960-4820-BA7A-2B29B4B6DDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1434BD3C-1960-4820-BA7A-2B29B4B6DDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1434BD3C-1960-4820-BA7A-2B29B4B6DDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1434BD3C-1960-4820-BA7A-2B29B4B6DDDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E2A8F6B4-E526-4EAC-B544-696D76BE9850}
+		SolutionGuid = {25451230-1F85-4554-A2B1-74E205ED42F7}
 	EndGlobalSection
 EndGlobal

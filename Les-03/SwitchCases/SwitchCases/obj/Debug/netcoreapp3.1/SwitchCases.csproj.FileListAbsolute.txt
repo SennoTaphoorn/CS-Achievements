@@ -1,0 +1,13 @@
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.csprojAssemblyReference.cache
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.AssemblyInfoInputs.cache
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.AssemblyInfo.cs
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.csproj.CoreCompileInputs.cache
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.exe
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.deps.json
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.runtimeconfig.json
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.runtimeconfig.dev.json
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.dll
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\bin\Debug\netcoreapp3.1\SwitchCases.pdb
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.dll
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.pdb
+C:\Users\senno\CS-Achievements\Les-03\SwitchCases\SwitchCases\obj\Debug\netcoreapp3.1\SwitchCases.genruntimeconfig.cache
