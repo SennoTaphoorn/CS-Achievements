@@ -1,0 +1,13 @@
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\bin\Debug\netcoreapp3.1\TijdOpHetScherm.exe
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\bin\Debug\netcoreapp3.1\TijdOpHetScherm.deps.json
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\bin\Debug\netcoreapp3.1\TijdOpHetScherm.runtimeconfig.json
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\bin\Debug\netcoreapp3.1\TijdOpHetScherm.runtimeconfig.dev.json
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\bin\Debug\netcoreapp3.1\TijdOpHetScherm.dll
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\bin\Debug\netcoreapp3.1\TijdOpHetScherm.pdb
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\obj\Debug\netcoreapp3.1\TijdOpHetScherm.csprojAssemblyReference.cache
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\obj\Debug\netcoreapp3.1\TijdOpHetScherm.AssemblyInfoInputs.cache
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\obj\Debug\netcoreapp3.1\TijdOpHetScherm.AssemblyInfo.cs
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\obj\Debug\netcoreapp3.1\TijdOpHetScherm.csproj.CoreCompileInputs.cache
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\obj\Debug\netcoreapp3.1\TijdOpHetScherm.dll
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\obj\Debug\netcoreapp3.1\TijdOpHetScherm.pdb
+C:\Users\senno\CS-Achievements\Les-01\TijdOpHetScherm\TijdOpHetScherm\obj\Debug\netcoreapp3.1\TijdOpHetScherm.genruntimeconfig.cache

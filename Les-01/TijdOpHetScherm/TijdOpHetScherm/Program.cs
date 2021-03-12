@@ -1,19 +1,14 @@
 ﻿using System;
 
-namespace Functies
+namespace TijdOpHetScherm
 {
     class Program
     {
         //Brons Achievement
-        static void HW()
-        {
-            Console.WriteLine("Hello World");
-        }
-
         static void Main(string[] args)
         {
-            HW();
+            string time = DateTime.Now.ToString("hh:mm:ss tt");
+            Console.WriteLine(time);
         }
-
     }
 }
