@@ -1,0 +1,13 @@
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\bin\Debug\netcoreapp3.1\Overerving.exe
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\bin\Debug\netcoreapp3.1\Overerving.deps.json
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\bin\Debug\netcoreapp3.1\Overerving.runtimeconfig.json
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\bin\Debug\netcoreapp3.1\Overerving.runtimeconfig.dev.json
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\bin\Debug\netcoreapp3.1\Overerving.dll
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\bin\Debug\netcoreapp3.1\Overerving.pdb
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\obj\Debug\netcoreapp3.1\Overerving.csprojAssemblyReference.cache
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\obj\Debug\netcoreapp3.1\Overerving.AssemblyInfoInputs.cache
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\obj\Debug\netcoreapp3.1\Overerving.AssemblyInfo.cs
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\obj\Debug\netcoreapp3.1\Overerving.csproj.CoreCompileInputs.cache
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\obj\Debug\netcoreapp3.1\Overerving.dll
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\obj\Debug\netcoreapp3.1\Overerving.pdb
+C:\Users\senno\CS-Achievements\Les-06\Overerving\Overerving\Overerving\obj\Debug\netcoreapp3.1\Overerving.genruntimeconfig.cache

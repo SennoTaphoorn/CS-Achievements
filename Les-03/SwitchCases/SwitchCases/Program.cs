@@ -6,7 +6,7 @@ namespace SwitchCases
     {
         static void Main(string[] args)
         {
-            int myInt = 0;
+            int myInt = 1;
             switch (myInt)
             {
                 case 0:

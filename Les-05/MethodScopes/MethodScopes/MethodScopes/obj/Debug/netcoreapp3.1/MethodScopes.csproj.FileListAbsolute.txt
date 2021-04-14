@@ -1,0 +1,13 @@
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\obj\Debug\netcoreapp3.1\MethodScopes.csprojAssemblyReference.cache
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\obj\Debug\netcoreapp3.1\MethodScopes.AssemblyInfoInputs.cache
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\obj\Debug\netcoreapp3.1\MethodScopes.AssemblyInfo.cs
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\obj\Debug\netcoreapp3.1\MethodScopes.csproj.CoreCompileInputs.cache
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\bin\Debug\netcoreapp3.1\MethodScopes.exe
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\bin\Debug\netcoreapp3.1\MethodScopes.deps.json
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\bin\Debug\netcoreapp3.1\MethodScopes.runtimeconfig.json
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\bin\Debug\netcoreapp3.1\MethodScopes.runtimeconfig.dev.json
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\bin\Debug\netcoreapp3.1\MethodScopes.dll
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\bin\Debug\netcoreapp3.1\MethodScopes.pdb
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\obj\Debug\netcoreapp3.1\MethodScopes.dll
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\obj\Debug\netcoreapp3.1\MethodScopes.pdb
+C:\Users\senno\CS-Achievements\Les-05\MethodScopes\MethodScopes\MethodScopes\obj\Debug\netcoreapp3.1\MethodScopes.genruntimeconfig.cache
